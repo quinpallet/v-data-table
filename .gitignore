@@ -22,3 +22,12 @@ logs
 .env
 .env.*
 !.env.example
+
+# VSCode
+.vscode
+
+# Nuxt project files
+.nuxt
+nuxt.d.ts
+.output
+.history
